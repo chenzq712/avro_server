@@ -117,3 +117,4 @@ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 .idea/libraries/Maven__jline_jline_0_9_94.xml
 info.log.2017-04-17
 target/classes/com/noway/avro/server/proto/TestObject.class
+.idea/uiDesigner.xml

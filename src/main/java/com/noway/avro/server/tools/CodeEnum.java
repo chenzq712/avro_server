@@ -22,7 +22,11 @@ public enum CodeEnum {
     AVRO_REMOTE_CONNECTION_ERROR( 10302, "调用远程服务器接口异常" ),
     AVRO_REMOTE_BIND_ERROR( 10303, "绑定远程接口异常" ),
     AVRO_PARAMETERS_INCORRECT( 10304, "RequestName参数不正确" ),
-    AVRO_SERVICE_NOT_FOUND( 10305, "没有指定服务" );
+    AVRO_SERVICE_NOT_FOUND( 10305, "没有指定服务" )
+
+
+    ;
+
     public String note;
     public Integer code;
 
